@@ -1,0 +1,9 @@
+exception: wrong type for field (pipeline) 3 != 4:/user/login
+exception: wrong type for field (pipeline) 3 != 4:/user/login
+exception: wrong type for field (pipeline) 3 != 4:/user/login
+exception: wrong type for field (pipeline) 3 != 4:/user/login
+exception: wrong type for field (pipeline) 3 != 4:/user/login
+Modifiers operate on fields but we found a Array instead. For example: {$mod: {<field>: ...}} not {$set: []}:/user/login
+Modifiers operate on fields but we found a Array instead. For example: {$mod: {<field>: ...}} not {$set: []}:/user/login
+Modifiers operate on fields but we found a Array instead. For example: {$mod: {<field>: ...}} not {$set: []}:/user/login
+Not safe for none match or update fields:/user/login

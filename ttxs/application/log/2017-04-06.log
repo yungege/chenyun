@@ -1,0 +1,530 @@
+=====================2017-04-06 03:08:31===========================
+service_cost:0.05000000000005
+time:06/Apr/2017:03:08:31 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:200
+=====================2017-04-06 04:32:17===========================
+service_cost:0.045999999999997
+time:06/Apr/2017:04:32:17 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:200
+=====================2017-04-06 04:32:20===========================
+service_cost:0.04599999999999
+time:06/Apr/2017:04:32:20 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:200
+=====================2017-04-06 04:36:00===========================
+service_cost:0.062000000000006
+time:06/Apr/2017:04:36:00 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 04:37:31===========================
+service_cost:0.061000000000089
+time:06/Apr/2017:04:37:31 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 04:38:42===========================
+service_cost:0.06600000000001
+time:06/Apr/2017:04:38:42 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 04:39:13===========================
+service_cost:0.074999999999992
+time:06/Apr/2017:04:39:13 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 04:39:15===========================
+service_cost:0.075000000000047
+time:06/Apr/2017:04:39:15 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 05:37:14===========================
+service_cost:0.056999999999974
+time:06/Apr/2017:05:37:14 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 05:37:15===========================
+service_cost:0.059000000000003
+time:06/Apr/2017:05:37:15 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 05:39:50===========================
+service_cost:0.063000000000035
+time:06/Apr/2017:05:39:50 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 05:41:52===========================
+service_cost:0.060000000000004
+time:06/Apr/2017:05:41:52 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 08:11:05===========================
+service_cost:0.034000000000006
+time:06/Apr/2017:08:11:05 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 08:28:39===========================
+service_cost:0.083
+time:06/Apr/2017:08:28:39 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 08:43:18===========================
+service_cost:0.031000000000003
+time:06/Apr/2017:08:43:18 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 08:43:18===========================
+service_cost:0.022999999999995
+time:06/Apr/2017:08:43:18 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:09===========================
+service_cost:0.058000000000002
+time:06/Apr/2017:09:15:09 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:15===========================
+service_cost:0.021999999999999
+time:06/Apr/2017:09:15:15 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner/a
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:16===========================
+service_cost:0.029000000000001
+time:06/Apr/2017:09:15:16 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner/a
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:16===========================
+service_cost:0.114
+time:06/Apr/2017:09:15:16 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner/a
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:16===========================
+service_cost:0.018999999999991
+time:06/Apr/2017:09:15:16 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner/a
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:16===========================
+service_cost:0.016000000000016
+time:06/Apr/2017:09:15:16 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner/a
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:16===========================
+service_cost:0.02599999999997
+time:06/Apr/2017:09:15:16 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner/a
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:17===========================
+service_cost:0.018000000000004
+time:06/Apr/2017:09:15:17 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner/a
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:17===========================
+service_cost:0.01799999999999
+time:06/Apr/2017:09:15:17 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner/a
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:17===========================
+service_cost:0.022999999999995
+time:06/Apr/2017:09:15:17 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner/a
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:17===========================
+service_cost:0.020999999999993
+time:06/Apr/2017:09:15:17 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner/a
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:15:32===========================
+service_cost:0.01799999999999
+time:06/Apr/2017:09:15:32 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:16:06===========================
+service_cost:0.02000000000002
+time:06/Apr/2017:09:16:06 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:16:08===========================
+service_cost:0.018999999999991
+time:06/Apr/2017:09:16:08 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:16:26===========================
+service_cost:0.02000000000002
+time:06/Apr/2017:09:16:26 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:16:26===========================
+service_cost:0.036000000000036
+time:06/Apr/2017:09:16:26 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:16:27===========================
+service_cost:0.036999999999981
+time:06/Apr/2017:09:16:27 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:16:32===========================
+service_cost:0.033999999999999
+time:06/Apr/2017:09:16:32 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:POST
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:16:34===========================
+service_cost:0.018999999999991
+time:06/Apr/2017:09:16:34 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:411
+error_msg:平台来源为空
+=====================2017-04-06 09:26:15===========================
+service_cost:35.698
+time:06/Apr/2017:09:26:15 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg
+=====================2017-04-06 09:26:21===========================
+service_cost:34.488
+time:06/Apr/2017:09:26:21 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg
+=====================2017-04-06 09:26:22===========================
+service_cost:8.218
+time:06/Apr/2017:09:26:22 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg
+=====================2017-04-06 09:33:25===========================
+service_cost:10.08
+time:06/Apr/2017:09:33:25 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg
+=====================2017-04-06 09:34:51===========================
+service_cost:7.698
+time:06/Apr/2017:09:34:51 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 09:36:03===========================
+service_cost:9.041
+time:06/Apr/2017:09:36:03 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 09:36:04===========================
+service_cost:7.372
+time:06/Apr/2017:09:36:04 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 09:36:18===========================
+service_cost:13.284
+time:06/Apr/2017:09:36:18 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 09:36:43===========================
+service_cost:7.588
+time:06/Apr/2017:09:36:43 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 09:43:54===========================
+service_cost:9.707
+time:06/Apr/2017:09:43:54 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 11:11:00===========================
+service_cost:15.985
+time:06/Apr/2017:11:11:00 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner?UD=dWlkPTU4YTEwYzJkZDc5ZTRmYzhmODNmNmNmMSZzaWQ9M2M1NTAxZjU5MzBmZDFmNzc1NGRkM2E3NzEyNzQ3MWQmY2g9MTAwMDAmdj0xLjAuMC4wMCZwdD13eCZkdj0xMTAwMDAwMjAxMjAmZGV2aWNldG9rZW49NTc1YjQ3YTgzNTYyOGZmOTk5MWRkNzI1ODZmNzlkMWIwZDdlNWZiZTkxZTQ0NGE5ZDcyNDJkM2Y4NDEzMGI1Yg==
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 11:11:01===========================
+service_cost:7.911
+time:06/Apr/2017:11:11:01 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner?UD=dWlkPTU4YTEwYzJkZDc5ZTRmYzhmODNmNmNmMSZzaWQ9M2M1NTAxZjU5MzBmZDFmNzc1NGRkM2E3NzEyNzQ3MWQmY2g9MTAwMDAmdj0xLjAuMC4wMCZwdD13eCZkdj0xMTAwMDAwMjAxMjAmZGV2aWNldG9rZW49NTc1YjQ3YTgzNTYyOGZmOTk5MWRkNzI1ODZmNzlkMWIwZDdlNWZiZTkxZTQ0NGE5ZDcyNDJkM2Y4NDEzMGI1Yg==
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 11:11:20===========================
+service_cost:21.835
+time:06/Apr/2017:11:11:20 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner?UD=dWlkPTU4YTEwYzJkZDc5ZTRmYzhmODNmNmNmMSZzaWQ9M2M1NTAxZjU5MzBmZDFmNzc1NGRkM2E3NzEyNzQ3MWQmY2g9MTAwMDAmdj0xLjAuMC4wMCZwdD13eCZkdj0xMTAwMDAwMjAxMjAmZGV2aWNldG9rZW49NTc1YjQ3YTgzNTYyOGZmOTk5MWRkNzI1ODZmNzlkMWIwZDdlNWZiZTkxZTQ0NGE5ZDcyNDJkM2Y4NDEzMGI1Yg==
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 11:11:21===========================
+service_cost:19.561
+time:06/Apr/2017:11:11:21 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner?UD=dWlkPTU4YTEwYzJkZDc5ZTRmYzhmODNmNmNmMSZzaWQ9M2M1NTAxZjU5MzBmZDFmNzc1NGRkM2E3NzEyNzQ3MWQmY2g9MTAwMDAmdj0xLjAuMC4wMCZwdD13eCZkdj0xMTAwMDAwMjAxMjAmZGV2aWNldG9rZW49NTc1YjQ3YTgzNTYyOGZmOTk5MWRkNzI1ODZmNzlkMWIwZDdlNWZiZTkxZTQ0NGE5ZDcyNDJkM2Y4NDEzMGI1Yg==
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 11:12:03===========================
+service_cost:19.801
+time:06/Apr/2017:11:12:03 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/sport/banner?UD=dWlkPTU4YTEwYzJkZDc5ZTRmYzhmODNmNmNmMSZzaWQ9M2M1NTAxZjU5MzBmZDFmNzc1NGRkM2E3NzEyNzQ3MWQmY2g9MTAwMDAmdj0xLjAuMC4wMCZwdD13eCZkdj0xMTAwMDAwMjAxMjAmZGV2aWNldG9rZW49NTc1YjQ3YTgzNTYyOGZmOTk5MWRkNzI1ODZmNzlkMWIwZDdlNWZiZTkxZTQ0NGE5ZDcyNDJkM2Y4NDEzMGI1Yg==
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 11:15:41===========================
+service_cost:17.001
+time:06/Apr/2017:11:15:41 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/rank/rankinfo?UD=dWlkPTU4YTEwYzJkZDc5ZTRmYzhmODNmNmNmMSZzaWQ9M2M1NTAxZjU5MzBmZDFmNzc1NGRkM2E3NzEyNzQ3MWQmY2g9MTAwMDAmdj0xLjAuMC4wMCZwdD13eCZkdj0xMTAwMDAwMjAxMjAmZGV2aWNldG9rZW49NTc1YjQ3YTgzNTYyOGZmOTk5MWRkNzI1ODZmNzlkMWIwZDdlNWZiZTkxZTQ0NGE5ZDcyNDJkM2Y4NDEzMGI1Yg==
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success
+=====================2017-04-06 11:15:57===========================
+service_cost:0.47799999999998
+time:06/Apr/2017:11:15:57 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/rank/rankinfo
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no:410
+error_msg:请登录
+=====================2017-04-06 11:16:12===========================
+service_cost:16.052
+time:06/Apr/2017:11:16:12 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/rank/rankinfo?UD=dWlkPTU4YTEwYzJkZDc5ZTRmYzhmODNmNmNmMSZzaWQ9M2M1NTAxZjU5MzBmZDFmNzc1NGRkM2E3NzEyNzQ3MWQmY2g9MTAwMDAmdj0xLjAuMC4wMCZwdD13eCZkdj0xMTAwMDAwMjAxMjAmZGV2aWNldG9rZW49NTc1YjQ3YTgzNTYyOGZmOTk5MWRkNzI1ODZmNzlkMWIwZDdlNWZiZTkxZTQ0NGE5ZDcyNDJkM2Y4NDEzMGI1Yg==
+request_method:GET
+cookie
+client_ip:192.168.1.2
+error_no
+error_msg:success

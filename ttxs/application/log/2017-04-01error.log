@@ -1,0 +1,11 @@
+not authorized on Mew to execute command { insert: "user", writeConcern: { w: "majority", wtimeout: 1000 }, ordered: true, documents: [ { username: "chenyun", nickname: "大云哥", type: 1, nation: 0, password: "123456", birthday: 0, profile: "yaf php7 mongodb test", sex: 1, _id: ObjectId('58df5d63c9609c1ec675b727') } ] }:/user/login
+Invalid ns [Mew/Mew.$cmd]:/user/login
+Invalid ns [Mew/Mew.$cmd]:/user/login
+Invalid namespace provided: user:/user/login
+Invalid namespace provided: user:/user/login
+Authentication failed.:/user/login
+Authentication failed.:/user/login
+Invalid namespace provided: user:/user/login
+Not safe for none filter or update fields:/user/login
+Not safe for none match or update fields:/user/login
+Replacement document conflicts with true "multi" option:/user/login

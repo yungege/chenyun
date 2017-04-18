@@ -1,0 +1,140 @@
+=====================2017-04-01 07:57:23===========================
+service_cost:2.084
+time:01/Apr/2017:07:57:23 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:not authorized on Mew to execute command { insert: "user", writeConcern: { w: "majority", wtimeout: 1000 }, ordered: true, documents: [ { username: "chenyun", nickname: "大云哥", type: 1, nation: 0, password: "123456", birthday: 0, profile: "yaf php7 mongodb test", sex: 1, _id: ObjectId('58df5d63c9609c1ec675b727') } ] }
+=====================2017-04-01 07:58:44===========================
+service_cost:2.051
+time:01/Apr/2017:07:58:44 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:Invalid ns [Mew/Mew.$cmd]
+=====================2017-04-01 07:58:45===========================
+service_cost:1.707
+time:01/Apr/2017:07:58:45 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:Invalid ns [Mew/Mew.$cmd]
+=====================2017-04-01 07:59:15===========================
+service_cost:0.22900000000001
+time:01/Apr/2017:07:59:15 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:Invalid namespace provided: user
+=====================2017-04-01 07:59:15===========================
+service_cost:0.224
+time:01/Apr/2017:07:59:15 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:Invalid namespace provided: user
+=====================2017-04-01 08:01:38===========================
+service_cost:2.371
+time:01/Apr/2017:08:01:38 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:Authentication failed.
+=====================2017-04-01 08:01:38===========================
+service_cost:2.813
+time:01/Apr/2017:08:01:38 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:Authentication failed.
+=====================2017-04-01 08:01:58===========================
+service_cost:0.22500000000003
+time:01/Apr/2017:08:01:58 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:Invalid namespace provided: user
+=====================2017-04-01 08:25:04===========================
+service_cost:17.042
+time:01/Apr/2017:08:25:04 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no
+error_msg
+=====================2017-04-01 08:43:08===========================
+service_cost:18.545
+time:01/Apr/2017:08:43:08 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no
+error_msg
+=====================2017-04-01 08:44:21===========================
+service_cost:1.424
+time:01/Apr/2017:08:44:21 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no
+error_msg
+=====================2017-04-01 10:00:33===========================
+service_cost:0.18699999999999
+time:01/Apr/2017:10:00:33 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:Not safe for none filter or update fields
+=====================2017-04-01 10:01:18===========================
+service_cost:0.18799999999997
+time:01/Apr/2017:10:01:18 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:Not safe for none match or update fields
+=====================2017-04-01 10:10:36===========================
+service_cost:0.22
+time:01/Apr/2017:10:10:36 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:-1
+error_msg:Replacement document conflicts with true "multi" option

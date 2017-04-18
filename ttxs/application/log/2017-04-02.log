@@ -1,0 +1,240 @@
+=====================2017-04-02 02:47:19===========================
+service_cost:1.167
+time:02/Apr/2017:02:47:19 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 02:52:08===========================
+service_cost:2.493
+time:02/Apr/2017:02:52:08 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 03:00:01===========================
+service_cost:1.377
+time:02/Apr/2017:03:00:01 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 03:00:02===========================
+service_cost:1.235
+time:02/Apr/2017:03:00:02 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 03:23:05===========================
+service_cost:2.48
+time:02/Apr/2017:03:23:05 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 03:25:22===========================
+service_cost:2.1169999999999
+time:02/Apr/2017:03:25:22 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 03:26:03===========================
+service_cost:4.182
+time:02/Apr/2017:03:26:03 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 04:10:19===========================
+service_cost:11.077
+time:02/Apr/2017:04:10:19 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no:-1
+error_msg:exception: wrong type for field (pipeline) 3 != 4
+=====================2017-04-02 04:11:12===========================
+service_cost:10.2
+time:02/Apr/2017:04:11:12 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no:-1
+error_msg:exception: wrong type for field (pipeline) 3 != 4
+=====================2017-04-02 04:12:20===========================
+service_cost:9.34
+time:02/Apr/2017:04:12:20 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no:-1
+error_msg:exception: wrong type for field (pipeline) 3 != 4
+=====================2017-04-02 04:12:22===========================
+service_cost:9.05
+time:02/Apr/2017:04:12:22 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no:-1
+error_msg:exception: wrong type for field (pipeline) 3 != 4
+=====================2017-04-02 04:14:51===========================
+service_cost:10.127
+time:02/Apr/2017:04:14:51 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no:-1
+error_msg:exception: wrong type for field (pipeline) 3 != 4
+=====================2017-04-02 11:24:00===========================
+service_cost:3.8590000000001
+time:02/Apr/2017:11:24:00 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 11:32:58===========================
+service_cost:5.148
+time:02/Apr/2017:11:32:58 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 11:40:16===========================
+service_cost:4.3960000000001
+time:02/Apr/2017:11:40:16 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 11:40:17===========================
+service_cost:3.873
+time:02/Apr/2017:11:40:17 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 11:40:59===========================
+service_cost:5.851
+time:02/Apr/2017:11:40:59 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 11:42:21===========================
+service_cost:5.071
+time:02/Apr/2017:11:42:21 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 14:45:11===========================
+service_cost:3.299
+time:02/Apr/2017:14:45:11 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no:-1
+error_msg:Modifiers operate on fields but we found a Array instead. For example: {$mod: {<field>: ...}} not {$set: []}
+=====================2017-04-02 14:46:57===========================
+service_cost:1.152
+time:02/Apr/2017:14:46:57 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no:-1
+error_msg:Modifiers operate on fields but we found a Array instead. For example: {$mod: {<field>: ...}} not {$set: []}
+=====================2017-04-02 14:46:58===========================
+service_cost:1.161
+time:02/Apr/2017:14:46:58 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no:-1
+error_msg:Modifiers operate on fields but we found a Array instead. For example: {$mod: {<field>: ...}} not {$set: []}
+=====================2017-04-02 14:50:58===========================
+service_cost:0.20000000000003
+time:02/Apr/2017:14:50:58 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no:-1
+error_msg:Not safe for none match or update fields
+=====================2017-04-02 15:59:06===========================
+service_cost:0.013999999999958
+time:02/Apr/2017:15:59:06 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
+=====================2017-04-02 16:04:06===========================
+service_cost:0.04599999999999
+time:02/Apr/2017:16:04:06 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg

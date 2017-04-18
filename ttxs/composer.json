@@ -1,0 +1,23 @@
+{
+    "name": "ttxs/yaf",
+    "description": "ttxs yaf+php7 Project Template",
+    "keywords": ["ttxs", "yaf", "php7", "mongodb"],
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+        "phpoffice/phpexcel": "^1.8",
+        "chrisboulton/php-resque-scheduler": "^1.1",
+        "chrisboulton/php-resque": "^1.2",
+        "swiftmailer/swiftmailer": "5.3.*@dev",
+        "qiniu/php-sdk": "^7.1"
+    },
+    "config": {
+        "process-timeout": 1800
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}

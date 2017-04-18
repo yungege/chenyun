@@ -1,0 +1,1 @@
+!function(t){var r={storage:{},get:function(t){return this.storage[t]},set:function(t,r){if("string"==typeof t)this.storage[t]=r;else for(var s in t)t.hasOwnProperty(s)&&(this.storage[s]=t[s])}};t.fisData=r}(window);

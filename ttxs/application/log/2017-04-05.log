@@ -1,0 +1,120 @@
+=====================2017-04-05 01:28:10===========================
+service_cost:0.263
+time:05/Apr/2017:01:28:10 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:410
+error_msg:请登录
+=====================2017-04-05 02:18:46===========================
+service_cost:0.224
+time:05/Apr/2017:02:18:46 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:410
+error_msg:请登录
+=====================2017-04-05 05:01:41===========================
+service_cost:0.23299999999993
+time:05/Apr/2017:05:01:41 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:410
+error_msg:请登录
+=====================2017-04-05 05:05:44===========================
+service_cost:0.18800000000002
+time:05/Apr/2017:05:05:44 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:410
+error_msg:请登录
+=====================2017-04-05 05:05:44===========================
+service_cost:0.20399999999998
+time:05/Apr/2017:05:05:44 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:410
+error_msg:请登录
+=====================2017-04-05 05:05:53===========================
+service_cost:0.029999999999974
+time:05/Apr/2017:05:05:53 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no
+error_msg
+=====================2017-04-05 07:00:48===========================
+service_cost:0.03299999999995
+time:05/Apr/2017:07:00:48 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no
+error_msg
+=====================2017-04-05 09:04:43===========================
+service_cost:0.67499999999998
+time:05/Apr/2017:09:04:43 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:13053
+error_msg:No suitable servers found (`serverSelectionTryOnce` set): [connection closed calling ismaster on '10.26.78.67:27001']
+=====================2017-04-05 09:05:21===========================
+service_cost:0.67099999999998
+time:05/Apr/2017:09:05:21 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:13053
+error_msg:No suitable servers found (`serverSelectionTryOnce` set): [connection closed calling ismaster on '10.26.78.67:27001']
+=====================2017-04-05 09:06:16===========================
+service_cost:0.70300000000001
+time:05/Apr/2017:09:06:16 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:13053
+error_msg:No suitable servers found (`serverSelectionTryOnce` set): [connection closed calling ismaster on '10.26.78.67:27001']
+=====================2017-04-05 09:12:08===========================
+service_cost:0.65599999999999
+time:05/Apr/2017:09:12:08 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+ourl:/user/login
+request_method:GET
+cookie
+client_ip:114.249.235.192
+error_no:13053
+error_msg:No suitable servers found (`serverSelectionTryOnce` set): [connection closed calling ismaster on '10.26.78.67:27001']
+=====================2017-04-05 13:07:16===========================
+service_cost:0.025000000000001
+time:05/Apr/2017:13:07:16 +0000
+entrance_type:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+ourl:/user/login?%20a=%E5%95%8A%E5%95%8A
+request_method:PUT
+cookie
+client_ip:223.20.167.244
+error_no
+error_msg
